@@ -25,8 +25,8 @@ Perfekt für Schule, Ausbildung, Studium oder eigene Netzwerkprojekte.
 
 2. **Repository klonen:**  
    ```sh
-   git clone https://gitlab.com/Truppex/ae-hausaufgabe-rechner.git
-   cd ae-hausaufgabe-rechner
+   git clone https://github.com/Truppex/IPv4Subnetzrechner.git
+   cd IPv4Subnetzrechner
    ```
 
 3. **Programm starten:**  

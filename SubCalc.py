@@ -1,5 +1,4 @@
 # Subnetzrechner für IPv4-Adressen
-# von [Dein Name] - Kommentare wie selbst gemacht, inkl. Umlauten
 
 # Funktion: IP-Adresse (als String) in eine Liste umwandeln
 def ip_str_zu_liste(ip_str):
